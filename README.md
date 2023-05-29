@@ -3,4 +3,5 @@ Just a next text styling library for Python.
 - [GitHub](https://github.com/IvulkaCZ/Stylys)
 - [Documentation](https://github.com/IvulkaCZ/Stylys/wiki)
 - [Issues](https://github.com/IvulkaCZ/Stylys/issues)
+<br>
 Yes. I do everything on Github.
